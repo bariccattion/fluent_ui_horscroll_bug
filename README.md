@@ -1,5 +1,5 @@
-# example
+# Fluent UI Horizontal Bug
 
-The app showcase for [fluent_ui](https://pub.dev/packages/fluent_ui).
-
-To run this app, run `flutter create .` in the terminal to generate the platform specific builds, and then run `flutter run`
+All the tests are located inside /lib/screens/snippets.dart
+The rest of the project is straight up copied from the Example App
+Tested with 4.0.0-pre.0, and also 3.12.0
